@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 4259,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/connect-to-an-azure-vm-in-the-azure-government-cloud/master/Connect-VM-Government.ps1",
+    "DownloadCount": 889,
+    "Id": "Connect-to-an-Azure-VM-in-61b9e357",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 399,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-10-28T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This PowerShell Workflow runbook sets up a connection to an Azure VM in the Azure Government cloud. It connects to the Azure subscription and then imports the certificate used for the Azure VM so remote PowerShell calls can be made.",
+    "Title": "Connect to an Azure VM in the Azure Government cloud",
+    "UpdatedDate": "2016-5-18T00:00:00",
+    "Url": "https://github.com/azureautomation/connect-to-an-azure-vm-in-the-azure-government-cloud",
+    "UserTags": "Windows Azure Virtual Machines, VM Lifecycle Management, Azure Government cloud"
+}
